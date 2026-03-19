@@ -1,0 +1,18 @@
+[
+  {
+    "codigo": "esES",
+    "nombre": "Español (España)",
+    "bandera": "🇪🇸",
+    "url": "https://github.com/joseqwrtt/update_language/releases/latest/download/esES.json",
+    "version_idioma": "1",
+    "version_minima_programa": "3.0.0.7"
+  },
+  {
+    "codigo": "enEN",
+    "nombre": "English",
+    "bandera": "🇬🇧",
+    "url": "https://github.com/joseqwrtt/update_language/releases/latest/download/enEN.json",
+    "version_idioma": "1",
+    "version_minima_programa": "3.0.0.7"
+  }
+]
