@@ -14,5 +14,93 @@
     "url": "https://github.com/joseqwrtt/update_language/releases/latest/download/enEN.json",
     "version_idioma": "1",
     "version_minima_programa": "3.0.0.7"
+  },
+  {
+    "codigo": "frFR",
+    "nombre": "Français",
+    "bandera": "🇫🇷",
+    "url": "https://github.com/joseqwrtt/update_language/releases/latest/download/frFR.json",
+    "version_idioma": "1",
+    "version_minima_programa": "3.0.0.7"
+  },
+  {
+    "codigo": "deDE",
+    "nombre": "Deutsch",
+    "bandera": "🇩🇪",
+    "url": "https://github.com/joseqwrtt/update_language/releases/latest/download/deDE.json",
+    "version_idioma": "1",
+    "version_minima_programa": "3.0.0.7"
+  },
+  {
+    "codigo": "ptPT",
+    "nombre": "Português (Portugal)",
+    "bandera": "🇵🇹",
+    "url": "https://github.com/joseqwrtt/update_language/releases/latest/download/ptPT.json",
+    "version_idioma": "1",
+    "version_minima_programa": "3.0.0.7"
+  },
+  {
+    "codigo": "itIT",
+    "nombre": "Italiano",
+    "bandera": "🇮🇹",
+    "url": "https://github.com/joseqwrtt/update_language/releases/latest/download/itIT.json",
+    "version_idioma": "1",
+    "version_minima_programa": "3.0.0.7"
+  },
+  {
+    "codigo": "vaES",
+    "nombre": "Valencià (Comunitat Valenciana)",
+    "bandera": "🇪🇸",
+    "url": "https://github.com/joseqwrtt/update_language/releases/latest/download/vaES.json",
+    "version_idioma": "1",
+    "version_minima_programa": "3.0.0.7"
+  },
+  {
+    "codigo": "caES",
+    "nombre": "Català (Catalunya)",
+    "bandera": "🇪🇸",
+    "url": "https://github.com/joseqwrtt/update_language/releases/latest/download/caES.json",
+    "version_idioma": "1",
+    "version_minima_programa": "3.0.0.7"
+  },
+  {
+    "codigo": "nlNL",
+    "nombre": "Nederlands",
+    "bandera": "🇳🇱",
+    "url": "https://github.com/joseqwrtt/update_language/releases/latest/download/nlNL.json",
+    "version_idioma": "1",
+    "version_minima_programa": "3.0.0.7"
+  },
+  {
+    "codigo": "plPL",
+    "nombre": "Polski",
+    "bandera": "🇵🇱",
+    "url": "https://github.com/joseqwrtt/update_language/releases/latest/download/plPL.json",
+    "version_idioma": "1",
+    "version_minima_programa": "3.0.0.7"
+  },
+  {
+    "codigo": "ruRU",
+    "nombre": "Русский",
+    "bandera": "🇷🇺",
+    "url": "https://github.com/joseqwrtt/update_language/releases/latest/download/ruRU.json",
+    "version_idioma": "1",
+    "version_minima_programa": "3.0.0.7"
+  },
+  {
+    "codigo": "zhCN",
+    "nombre": "中文 (简体)",
+    "bandera": "🇨🇳",
+    "url": "https://github.com/joseqwrtt/update_language/releases/latest/download/zhCN.json",
+    "version_idioma": "1",
+    "version_minima_programa": "3.0.0.7"
+  },
+  {
+    "codigo": "jaJP",
+    "nombre": "日本語",
+    "bandera": "🇯🇵",
+    "url": "https://github.com/joseqwrtt/update_language/releases/latest/download/jaJP.json",
+    "version_idioma": "1",
+    "version_minima_programa": "3.0.0.7"
   }
 ]
