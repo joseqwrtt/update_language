@@ -62,5 +62,69 @@
     "url": "https://github.com/joseqwrtt/update_language/releases/download/v1/caES.json",
     "version_idioma": "1",
     "version_minima_programa": "3.0.0.7"
+  },
+  {
+    "codigo": "esES",
+    "nombre": "Español",
+    "bandera": "🇪🇸",
+    "url": "https://github.com/joseqwrtt/update_language/releases/download/v2/esES.json",
+    "version_idioma": "2",
+    "version_minima_programa": "3.0.0.8"
+  },
+  {
+    "codigo": "enEN",
+    "nombre": "English",
+    "bandera": "🇬🇧",
+    "url": "https://github.com/joseqwrtt/update_language/releases/download/v2/enEN.json",
+    "version_idioma": "2",
+    "version_minima_programa": "3.0.0.8"
+  },
+  {
+    "codigo": "frFR",
+    "nombre": "Français",
+    "bandera": "🇫🇷",
+    "url": "https://github.com/joseqwrtt/update_language/releases/download/v2/frFR.json",
+    "version_idioma": "2",
+    "version_minima_programa": "3.0.0.8"
+  },
+  {
+    "codigo": "deDE",
+    "nombre": "Deutsch",
+    "bandera": "🇩🇪",
+    "url": "https://github.com/joseqwrtt/update_language/releases/download/v2/deDE.json",
+    "version_idioma": "2",
+    "version_minima_programa": "3.0.0.8"
+  },
+  {
+    "codigo": "itIT",
+    "nombre": "Italiano",
+    "bandera": "🇮🇹",
+    "url": "https://github.com/joseqwrtt/update_language/releases/download/v2/itIT.json",
+    "version_idioma": "2",
+    "version_minima_programa": "3.0.0.8"
+  },
+  {
+    "codigo": "ptPT",
+    "nombre": "Português",
+    "bandera": "🇵🇹",
+    "url": "https://github.com/joseqwrtt/update_language/releases/download/v2/ptPT.json",
+    "version_idioma": "2",
+    "version_minima_programa": "3.0.0.8"
+  },
+  {
+    "codigo": "vaES",
+    "nombre": "Valencià",
+    "bandera": "🇪🇸",
+    "url": "https://github.com/joseqwrtt/update_language/releases/download/v2/vaES.json",
+    "version_idioma": "2",
+    "version_minima_programa": "3.0.0.8"
+  },
+  {
+    "codigo": "caES",
+    "nombre": "Català",
+    "bandera": "🇪🇸",
+    "url": "https://github.com/joseqwrtt/update_language/releases/download/v2/caES.json",
+    "version_idioma": "2",
+    "version_minima_programa": "3.0.0.8"
   }
 ]
