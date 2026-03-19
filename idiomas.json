@@ -3,7 +3,7 @@
     "codigo": "esES",
     "nombre": "Español",
     "bandera": "🇪🇸",
-    "url": "https://github.com/joseqwrtt/update_language/releases/latest/download/esES.json",
+    "url": "https://github.com/joseqwrtt/update_language/releases/download/v1/esES.json",
     "version_idioma": "1",
     "version_minima_programa": "3.0.0.7"
   },
@@ -11,7 +11,7 @@
     "codigo": "enEN",
     "nombre": "English",
     "bandera": "🇬🇧",
-    "url": "https://github.com/joseqwrtt/update_language/releases/latest/download/enEN.json",
+    "url": "https://github.com/joseqwrtt/update_language/releases/download/v1/enEN.json",
     "version_idioma": "1",
     "version_minima_programa": "3.0.0.7"
   },
@@ -19,7 +19,7 @@
     "codigo": "frFR",
     "nombre": "Français",
     "bandera": "🇫🇷",
-    "url": "https://github.com/joseqwrtt/update_language/releases/latest/download/frFR.json",
+    "url": "https://github.com/joseqwrtt/update_language/releases/download/v1/frFR.json",
     "version_idioma": "1",
     "version_minima_programa": "3.0.0.7"
   },
@@ -27,7 +27,7 @@
     "codigo": "deDE",
     "nombre": "Deutsch",
     "bandera": "🇩🇪",
-    "url": "https://github.com/joseqwrtt/update_language/releases/latest/download/deDE.json",
+    "url": "https://github.com/joseqwrtt/update_language/releases/download/v1/deDE.json",
     "version_idioma": "1",
     "version_minima_programa": "3.0.0.7"
   },
@@ -35,7 +35,7 @@
     "codigo": "itIT",
     "nombre": "Italiano",
     "bandera": "🇮🇹",
-    "url": "https://github.com/joseqwrtt/update_language/releases/latest/download/itIT.json",
+    "url": "https://github.com/joseqwrtt/update_language/releases/download/v1/itIT.json",
     "version_idioma": "1",
     "version_minima_programa": "3.0.0.7"
   },
@@ -43,7 +43,7 @@
     "codigo": "ptPT",
     "nombre": "Português",
     "bandera": "🇵🇹",
-    "url": "https://github.com/joseqwrtt/update_language/releases/latest/download/ptPT.json",
+    "url": "https://github.com/joseqwrtt/update_language/releases/download/v1/ptPT.json",
     "version_idioma": "1",
     "version_minima_programa": "3.0.0.7"
   },
@@ -51,7 +51,7 @@
     "codigo": "vaES",
     "nombre": "Valencià",
     "bandera": "🇪🇸",
-    "url": "https://github.com/joseqwrtt/update_language/releases/latest/download/vaES.json",
+    "url": "https://github.com/joseqwrtt/update_language/releases/download/v1/vaES.json",
     "version_idioma": "1",
     "version_minima_programa": "3.0.0.7"
   },
@@ -59,7 +59,7 @@
     "codigo": "caES",
     "nombre": "Català",
     "bandera": "🇪🇸",
-    "url": "https://github.com/joseqwrtt/update_language/releases/latest/download/caES.json",
+    "url": "https://github.com/joseqwrtt/update_language/releases/download/v1/caES.json",
     "version_idioma": "1",
     "version_minima_programa": "3.0.0.7"
   }
